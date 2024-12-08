@@ -1,0 +1,21 @@
+[project]
+name = "airscrapy"
+version = "1.0.0"
+authors = [
+    { name="Fabien Vauchelles" },
+]
+description = "Scrapy contrib for Airflow"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "scrapy"
+]
+
+[project.urls]
+Homepage = "https://github.com/scrapoxy/airscrapy"
+Issues = "https://github.com/scrapoxy/airscrapy/issues"
