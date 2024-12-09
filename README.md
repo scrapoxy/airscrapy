@@ -1,4 +1,4 @@
-# Scrapy contrib for Airflow
+# AirScrapy - Scrapy contrib for Airflow
 
 ## Installation
 
